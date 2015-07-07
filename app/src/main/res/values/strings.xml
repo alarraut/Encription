@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Larrauri Codification</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="editartexto">Por favor ingrese su mensaje</string>
+    <string name="editarllave">Por favor ingrese su llave</string>
+    <string name="botoncod">Codificar</string>
+    <string name="botondec">Decodificar</string>
+
+    <string name="title_activity_display_message">Mensaje</string>
+</resources>
